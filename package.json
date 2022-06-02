@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "homepage": "https://anav2096.github.io/octo-spork/",
+  "homepage": "https://github.com/anav2096/octo-spork.git",
   "scripts": {
     "test": "jest",
     "seeds": "node seeds/index.js"
